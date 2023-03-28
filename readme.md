@@ -5,6 +5,8 @@ BillPortal is a web application for managing bills, specifically designed for ho
 ##Features
 
 User registration and authentication with token to mitigate the risk of fraud.
+ TODO: integrate SendGrid SMTP email service
+
 Role-based access control
 Add, edit, and delete bills
 Filter and search bills by date, amount, and status
