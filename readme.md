@@ -36,7 +36,7 @@ Contributions are welcome! To contribute to this project, please fork the reposi
 
 Credits
 
-This project was created by Adrian Vince.
+This project was created by Adrian Vincent Nyamutumbu and Tatenda Svotwa.
 
 License
 
