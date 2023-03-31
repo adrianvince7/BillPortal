@@ -9,8 +9,10 @@ Role-based access control
 
 ## Installation
 
-Clone the repository using git clone https://github.com/adrianvince7/BillPortal.git.
-Open a terminal window in the project's directory and run the Django server using the command: `python manage.py runserver`
+* Clone the repository using git clone https://github.com/adrianvince7/BillPortal.git.
+* Open a terminal window in the project's directory and run the Django server using the commands: 
+`source .venv/bin/activate`
+`python manage.py runserver`
 
 ## Usage
 
